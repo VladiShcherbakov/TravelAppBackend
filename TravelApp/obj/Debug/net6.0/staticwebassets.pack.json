@@ -1,0 +1,85 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Snowflake\\source\\repos\\TravelApp\\TravelApp\\wwwroot\\images\\2023030706111977.png",
+      "PackagePath": "staticwebassets\\images\\2023030706111977.png"
+    },
+    {
+      "Id": "C:\\Users\\Snowflake\\source\\repos\\TravelApp\\TravelApp\\wwwroot\\images\\2023030706534130.png",
+      "PackagePath": "staticwebassets\\images\\2023030706534130.png"
+    },
+    {
+      "Id": "C:\\Users\\Snowflake\\source\\repos\\TravelApp\\TravelApp\\wwwroot\\images\\2023030706565611.png",
+      "PackagePath": "staticwebassets\\images\\2023030706565611.png"
+    },
+    {
+      "Id": "C:\\Users\\Snowflake\\source\\repos\\TravelApp\\TravelApp\\wwwroot\\images\\2023030706575140.png",
+      "PackagePath": "staticwebassets\\images\\2023030706575140.png"
+    },
+    {
+      "Id": "C:\\Users\\Snowflake\\source\\repos\\TravelApp\\TravelApp\\wwwroot\\images\\2023030707011629.png",
+      "PackagePath": "staticwebassets\\images\\2023030707011629.png"
+    },
+    {
+      "Id": "C:\\Users\\Snowflake\\source\\repos\\TravelApp\\TravelApp\\wwwroot\\images\\2023030707015182.png",
+      "PackagePath": "staticwebassets\\images\\2023030707015182.png"
+    },
+    {
+      "Id": "C:\\Users\\Snowflake\\source\\repos\\TravelApp\\TravelApp\\wwwroot\\images\\2023030707035570.png",
+      "PackagePath": "staticwebassets\\images\\2023030707035570.png"
+    },
+    {
+      "Id": "C:\\Users\\Snowflake\\source\\repos\\TravelApp\\TravelApp\\wwwroot\\images\\2023030707054279.png",
+      "PackagePath": "staticwebassets\\images\\2023030707054279.png"
+    },
+    {
+      "Id": "C:\\Users\\Snowflake\\source\\repos\\TravelApp\\TravelApp\\wwwroot\\images\\2023030707060085.png",
+      "PackagePath": "staticwebassets\\images\\2023030707060085.png"
+    },
+    {
+      "Id": "C:\\Users\\Snowflake\\source\\repos\\TravelApp\\TravelApp\\wwwroot\\images\\2023030707095983.png",
+      "PackagePath": "staticwebassets\\images\\2023030707095983.png"
+    },
+    {
+      "Id": "C:\\Users\\Snowflake\\source\\repos\\TravelApp\\TravelApp\\wwwroot\\images\\2023030707100435.png",
+      "PackagePath": "staticwebassets\\images\\2023030707100435.png"
+    },
+    {
+      "Id": "C:\\Users\\Snowflake\\source\\repos\\TravelApp\\TravelApp\\wwwroot\\images\\2023030707100735.png",
+      "PackagePath": "staticwebassets\\images\\2023030707100735.png"
+    },
+    {
+      "Id": "C:\\Users\\Snowflake\\source\\repos\\TravelApp\\TravelApp\\wwwroot\\images\\2023030707123004.png",
+      "PackagePath": "staticwebassets\\images\\2023030707123004.png"
+    },
+    {
+      "Id": "C:\\Users\\Snowflake\\source\\repos\\TravelApp\\TravelApp\\wwwroot\\images\\2023030707125395.png",
+      "PackagePath": "staticwebassets\\images\\2023030707125395.png"
+    },
+    {
+      "Id": "C:\\Users\\Snowflake\\source\\repos\\TravelApp\\TravelApp\\wwwroot\\images\\2023031506133317.png",
+      "PackagePath": "staticwebassets\\images\\2023031506133317.png"
+    },
+    {
+      "Id": "C:\\Users\\Snowflake\\source\\repos\\TravelApp\\TravelApp\\wwwroot\\images\\2023031506133600.png",
+      "PackagePath": "staticwebassets\\images\\2023031506133600.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.TravelApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.TravelApp.props",
+      "PackagePath": "build\\TravelApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.TravelApp.props",
+      "PackagePath": "buildMultiTargeting\\TravelApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.TravelApp.props",
+      "PackagePath": "buildTransitive\\TravelApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
